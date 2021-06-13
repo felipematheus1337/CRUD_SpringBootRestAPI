@@ -1,2 +1,2 @@
-# CRUDsSpringBootRestAPI
+# CRUD SpringBootRestAPI
 CRUD
