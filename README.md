@@ -17,8 +17,8 @@ Git - para versionamento (Controle de versão)
 BootStrap - Para interface gráfica
 
 
-
   <h3>Linguagens utilizadas:</h3>
+
 Java
 
 JavaScript 
@@ -36,4 +36,3 @@ Jquery(ajax)
 JPA
 
 Persistência 
-
