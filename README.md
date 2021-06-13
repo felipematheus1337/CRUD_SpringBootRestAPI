@@ -20,12 +20,20 @@ BootStrap - Para interface gráfica
 
   <h3>Linguagens utilizadas:</h3>
 Java
+
 JavaScript 
+
 HTML5
+
 CSS/Bootstrap
 
 
+<h4> Fundamentos Aprendidos e Utilizados durante a criação do CRUD</h4>
 Utilizando rest apis
+
 Jquery(ajax)
+
 JPA
+
 Persistência 
+
