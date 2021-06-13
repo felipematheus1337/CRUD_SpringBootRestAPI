@@ -1,8 +1,10 @@
 # CRUD SPRING BOOT REST API 
-Um CRUD desenvolvido com auxilio do curso de Java web fullstack da JDEV treinamentos, as tecnologias utilizadas para desenvolvimento total do mesmo foi:
+Um CRUD desenvolvido com auxilio do curso de Java web fullstack da JDEV treinamentos.
 
 
-<h1>IDE - Eclipse Java EE</h1>
+<h3>Tecnologias Utilizadas</h3>
+  
+IDE - Eclipse Java EE
 
 Banco de Dados PostgreSQL - 9.5
 
@@ -16,7 +18,7 @@ BootStrap - Para interface gráfica
 
 
 
-Linguagens utilizadas:
+  <h3>Linguagens utilizadas:</h3>
 Java
 JavaScript 
 HTML5
