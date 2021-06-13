@@ -45,3 +45,7 @@ e realizando de maneira responsiva os fundamentos de um crud (Create, Read, Upda
 
 
 
+
+<h4> Objetivo </h4>
+Aprimorar meus conhecimentos ja adquiridos de Java, como Orientação a Objetos, Estrutura de dados, Listas, Maps, Setters, Date, entender o funcionamento desse tipo de arquitetura.
+
