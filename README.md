@@ -1,5 +1,5 @@
 # CRUD SPRING BOOT REST API 
-Um CRUD desenvolvido com auxilio do curso de Java web fullstack da JDEV treinamentos.
+Um CRUD desenvolvido com auxílio do curso de Java web fullstack da JDEV treinamentos.
 
 
 <h3>Tecnologias Utilizadas</h3>
